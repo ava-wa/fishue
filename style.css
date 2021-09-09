@@ -1,0 +1,151 @@
+/* CSS files add styling rules to your content */
+
+section.app {
+background:white;
+  align-items: center;
+  margin-bottom: 2em;
+}
+
+section.app div {
+margin: 0 auto;
+}
+
+body {
+  font-family: 'PT Sans', sans-serif;
+  color: #00171F;
+  font-size: 50px;
+  padding: 0;
+  background-color: white;
+  margin: 0;
+  background: url("https://cdn.glitch.com/654e777c-2b02-4879-966a-b9a26bd60b77%2Fare-r-220395-unsplash.jpg?1541899767097") no-repeat center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+header ul {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 0;
+}
+
+header li {
+  margin: 0 auto;
+  border: none;
+  padding: 10px;
+}
+
+header li:hover {
+  background: #DEDEDE;
+  
+}
+
+a:link {
+  text-decoration: none;
+}
+
+header {
+  display: flex;
+  background: white;
+  align-items: center;
+}
+  
+h1 {
+  text-align: center;
+  font-family: 'Niramit', sans-serif;
+  font-size: 60px;
+  text-shadow: 2px 2px 0 white;
+
+}
+
+h3 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+p {
+  font-size: 25px;
+  padding: 0 1em;
+  font-family: 'PT Sans', sans-serif;
+  text-shadow: 1px 1px 0 white;
+}
+
+
+section {
+
+  padding: 0 1em;
+}
+
+h5 {
+  font-size: 40px;
+  text-align: center;
+  text-shadow: 2px 2px 0 white;
+}
+
+
+li {
+  font-size: 30px;
+}
+
+.imagebackground > img {
+  margin: 0 auto;
+  
+}
+
+.imagebackground {
+  display: flex;
+}
+
+  
+.reviewhead {
+  font-size: 80px;
+  text-align: center;
+}
+
+
+section.key1 {
+  padding: 10px;
+  background: #FFFFFF;
+  text-align: center;
+}
+
+
+section.key2 {
+  background: #FFFFFF;
+}
+
+
+section.key3 {
+  background: #FFFFFF;
+}
+
+
+section.key4 {
+  background: #FFFFFF;
+}
+
+section.intro{
+  background: url("https://cdn.glitch.com/654e777c-2b02-4879-966a-b9a26bd60b77%2Fmarkus-spiske-632413-unsplash.jpg?1541898518201") no-repeat center;
+  background-size: 2000px 1200px;}
+
+section.intro div{
+  background: white;
+  margin: 2em;
+  padding: 1em;
+  opacity: 0.6;
+}
+
+img {
+  margin: 0 auto;
+}
+
+.compare {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.compare p {
+max-width: 15em;
+}
